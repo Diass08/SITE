@@ -1,0 +1,32 @@
+*{ 
+background-color: darkred;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0px;}
+#Titulo{
+    margin:50px;
+    font-weight: bold;
+    color: darkred;
+    background-color: aliceblue;
+    margin-bottom: 25px;
+    font-size:50px;
+}
+    
+p{
+    text-align: justify;
+    margin-left: 550px;
+    margin-top: 10px;
+    margin-right: 50px;
+    color: aliceblue;
+    font-size: 18px;}
+img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 350px;}
+    #t2{
+        margin:50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    font: size 25px;
+    }
